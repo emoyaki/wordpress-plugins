@@ -3,12 +3,12 @@
 
 /*
   Plugin Name: Custom Registration
-  Plugin URI: http://code.tutsplus.com
+
   Description: Updates user rating based on number of posts.
   Version: 1.0
-  Author: Agbonghama Collins
-  Author URI: http://tech4sky.com
- */
+  Author: Emanuil Yakimov
+
+    */
 
 function custom_registration_function() {
     if (isset($_POST['submit'])) {
